@@ -1,1 +1,2 @@
 ejemplo de clase 2 de git
+se modifica dicho archivo desde la web GitHub
